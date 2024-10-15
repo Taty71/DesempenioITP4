@@ -1,0 +1,16 @@
+INSERT INTO [IssdTP42023].[dbo].[Peliculas] ([nombrePelicula], [idDirector]) VALUES
+('Inception', 0),
+('Interstellar', 0),
+('Dunkirk', 0),
+('Pulp Fiction',1),
+('Kill Bill: Vol. 1',1),
+('Inglourious Basterds',1),
+('2001: A Space Odyssey', 2),
+('A Clockwork Orange', 2),
+('The Shining', 2),
+('Jurassic Park', 3),
+('Schindler´s List', 3),
+('E.T. the Extra-Terrestrial', 3),
+('Gladiator', 4),
+('Blade Runner', 4),
+('Alien', 4);
